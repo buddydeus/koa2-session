@@ -1,0 +1,7 @@
+{
+	"name":         "koa2-session",
+	"version":      "1.0.0",
+	"dependencies": {
+		"jbd": "*"
+	}
+}
